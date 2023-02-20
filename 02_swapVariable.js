@@ -1,11 +1,11 @@
 console.log("Swapping String value using third variable");
 var sweety="Sweety";
 var cutie="Cutie";
-var a;
-a=sweety;
+var temp;
+temp=sweety;
 sweety=cutie;
 cutie=sweety;
-cutie=a;
+cutie=temp;
 console.log(sweety,cutie);
 
 

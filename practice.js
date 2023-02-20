@@ -1,3 +1,12 @@
-for (let index = 0; index < 5; index++) {
-console.log(index);    
+// for (let index = 0; index < 5; index++) {
+// console.log(index);    
+// }
+
+
+
+function functionName(){
+    for (let index = 0; index < 5; index++) {
+        console.log(index);    
+        }
+
 }
